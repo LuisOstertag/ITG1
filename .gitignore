@@ -1,0 +1,26 @@
+#Unreal Engine
+StarterContent/
+Saved/
+Binaries/
+Build/
+Debug/
+Intermediate/
+DerivedDataCache/
+UnrealHeaderTool/
+UnrealPak/
+obj/
+*.VC.opendb
+*.opensdf
+*.sdf
+*.suo
+Engine/Binaries/
+Engine/DerivedDataCache/
+Engine/Intermediate/
+Engine/Saved/
+Engine/Shaders/Binaries/
+*.apk
+*.apk
+GameName/Binaries/
+GameName/DerivedDataCache/
+GameName/Intermediate/
+GameName/Saved/
