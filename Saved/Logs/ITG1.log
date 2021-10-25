@@ -1051,3 +1051,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.25-00.10.31:279][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
 [2021.10.25-00.10.31:280][213]LogActorComponent: ReregisterComponent: (/Game/Niveles/2.2:PersistentLevel.nivel_3.AudioComponent0) Not currently registered. Aborting.
 [2021.10.25-00.10.31:313][215]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.10.25-00.10.54:845][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.10.25-00.10.55:864][659]LogSlate: Window 'Save Content' being destroyed
+[2021.10.25-00.10.55:957][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niveles/2" FILE="E:/Unreal Projects/ITG1/Content/Niveles/2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.25-00.10.55:962][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.10.25-00.10.56:015][659]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/260361B8B4DBFAB3DC23E81B56DD6142C.tmp' to 'E:/Unreal Projects/ITG1/Content/Niveles/2.umap'
+[2021.10.25-00.10.56:020][659]LogFileHelpers: Saving map '2' took 0.063
+[2021.10.25-00.10.56:030][659]AssetCheck: New page: Asset Save: 2
+[2021.10.25-00.10.56:030][659]LogContentValidation: Display: Validating World /Game/Niveles/2.2
