@@ -1798,3 +1798,136 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.31-23.40.58:438][844]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/BP_GameInstance86D31AAF4B3F60162E5580A70C530C8E.tmp' to 'E:/Unreal Projects/ITG1/Content/BP/BP_GameInstance.uasset'
 [2021.10.31-23.40.58:451][844]AssetCheck: New page: Asset Save: BP_GameInstance
 [2021.10.31-23.40.58:451][844]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_GameInstance.BP_GameInstance
+[2021.10.31-23.43.10:805][300]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/UMG': No such file or directory
+[2021.10.31-23.44.27:894][834]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.10.31-23.44.27:905][834]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.10.31-23.44.37:983][ 42]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> SelectorNiveles_Widget
+[2021.10.31-23.44.38:052][ 42]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.10.31-23.44.39:497][210]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/SelectorNiveles_Widget.SelectorNiveles_Widget
+[2021.10.31-23.45.01:167][600]LogSlate: Took 0.018170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.10.31-23.48.47:812][ 15]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.31-23.48.57:408][149]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.31-23.49.05:971][158]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.31-23.50.45:678][787]BlueprintLog: New page: Compile SelectorNiveles_Widget
+[2021.10.31-23.50.45:729][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.10.31-23.50.46:281][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/SelectorNiveles_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/SelectorNiveles_Widget.uasset" SILENT=true
+[2021.10.31-23.50.46:289][840]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/SelectorNiveles_WidgetC1ECE9054D82A030473C4EB7D66FF2D1.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/SelectorNiveles_Widget.uasset'
+[2021.10.31-23.50.46:422][840]AssetCheck: New page: Asset Save: SelectorNiveles_Widget
+[2021.10.31-23.50.46:422][840]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/SelectorNiveles_Widget.SelectorNiveles_Widget
+[2021.10.31-23.51.04:564][979]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Niveles/Menu.Menu:PersistentLevel.Menu
+[2021.10.31-23.51.22:655][ 95]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.31-23.51.44:497][593]BlueprintLog: New page: Compile Menu
+[2021.10.31-23.51.44:499][593]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\ITG1\Content\Niveles\Menu.umap: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2021.10.31-23.51.44:560][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.10.31-23.51.51:759][450]BlueprintLog: New page: Compile Menu
+[2021.10.31-23.51.51:815][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.10.31-23.51.52:476][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niveles/Menu" FILE="E:/Unreal Projects/ITG1/Content/Niveles/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.31-23.51.52:512][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.10.31-23.51.52:518][518]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/MenuBFAB2E114BB7156F2E645E832DB4A232.tmp' to 'E:/Unreal Projects/ITG1/Content/Niveles/Menu.umap'
+[2021.10.31-23.51.52:524][518]LogFileHelpers: Saving map 'Menu' took 0.048
+[2021.10.31-23.51.52:533][518]AssetCheck: New page: Asset Save: Menu
+[2021.10.31-23.51.52:533][518]LogContentValidation: Display: Validating World /Game/Niveles/Menu.Menu
+[2021.10.31-23.52.46:270][802]BlueprintLog: New page: Compile Menu_Widget
+[2021.10.31-23.52.46:317][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.10.31-23.52.47:454][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Menu_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/Menu_Widget.uasset" SILENT=true
+[2021.10.31-23.52.47:468][922]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Menu_WidgetF596408F40E226B69249C7ADFBD47988.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/Menu_Widget.uasset'
+[2021.10.31-23.52.47:478][922]AssetCheck: New page: Asset Save: Menu_Widget
+[2021.10.31-23.52.47:478][922]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menu_Widget.Menu_Widget
+[2021.10.31-23.52.49:211][123]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.10.31-23.52.49:254][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.10.31-23.53.15:692][348]BlueprintLog: New page: Compile Menu_Widget
+[2021.10.31-23.53.15:742][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.10.31-23.53.16:212][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Menu_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/Menu_Widget.uasset" SILENT=true
+[2021.10.31-23.53.16:226][389]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Menu_Widget2F84383F45678C8C28BC33968772D4A5.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/Menu_Widget.uasset'
+[2021.10.31-23.53.16:235][389]AssetCheck: New page: Asset Save: Menu_Widget
+[2021.10.31-23.53.16:236][389]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menu_Widget.Menu_Widget
+[2021.10.31-23.53.23:767][281]BlueprintLog: New page: Compile Menu_Widget
+[2021.10.31-23.53.23:829][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.10.31-23.53.24:337][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Menu_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/Menu_Widget.uasset" SILENT=true
+[2021.10.31-23.53.24:351][326]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Menu_Widget2FE817C9422C8D3BEF6A0291C12EE65B.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/Menu_Widget.uasset'
+[2021.10.31-23.53.24:363][326]AssetCheck: New page: Asset Save: Menu_Widget
+[2021.10.31-23.53.24:363][326]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menu_Widget.Menu_Widget
+[2021.10.31-23.53.40:221][131]BlueprintLog: New page: Compile Menu
+[2021.10.31-23.53.40:277][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.10.31-23.53.41:809][304]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.10.31-23.53.41:848][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.10.31-23.53.43:050][304]LogSlate: Window 'Save Content' being destroyed
+[2021.10.31-23.53.43:129][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niveles/Menu" FILE="E:/Unreal Projects/ITG1/Content/Niveles/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.31-23.53.43:166][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.10.31-23.53.43:171][304]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Menu8B3CA7554E5557A6B6D7D797A9E57BE5.tmp' to 'E:/Unreal Projects/ITG1/Content/Niveles/Menu.umap'
+[2021.10.31-23.53.43:176][304]LogFileHelpers: Saving map 'Menu' took 0.047
+[2021.10.31-23.53.43:197][305]AssetCheck: New page: Asset Save: Menu
+[2021.10.31-23.53.43:197][305]LogContentValidation: Display: Validating World /Game/Niveles/Menu.Menu
+[2021.10.31-23.54.45:907][338]BlueprintLog: New page: Compile Menu_Widget
+[2021.10.31-23.54.45:915][338]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\ITG1\Content\Widgets\Menu_Widget.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To SelectorNiveles_Widget  to imply a specific type.
+[2021.10.31-23.54.45:915][338]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\ITG1\Content\Widgets\Menu_Widget.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.10.31-23.54.45:955][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.10.31-23.54.51:400][965]BlueprintLog: New page: Compile Menu_Widget
+[2021.10.31-23.54.51:447][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.10.31-23.54.52:178][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Menu_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/Menu_Widget.uasset" SILENT=true
+[2021.10.31-23.54.52:193][ 37]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Menu_WidgetE3E7D2274789EA44388F00862DD418BD.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/Menu_Widget.uasset'
+[2021.10.31-23.54.52:203][ 37]AssetCheck: New page: Asset Save: Menu_Widget
+[2021.10.31-23.54.52:203][ 37]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menu_Widget.Menu_Widget
+[2021.10.31-23.54.54:696][324]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.10.31-23.54.54:739][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.10.31-23.55.17:604][322]BlueprintLog: New page: Compile Menu
+[2021.10.31-23.55.17:661][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.10.31-23.55.19:247][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niveles/Menu" FILE="E:/Unreal Projects/ITG1/Content/Niveles/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.31-23.55.19:282][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.10.31-23.55.19:288][499]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Menu5410B25246B04F0A04136089DD70CC2B.tmp' to 'E:/Unreal Projects/ITG1/Content/Niveles/Menu.umap'
+[2021.10.31-23.55.19:293][499]LogFileHelpers: Saving map 'Menu' took 0.045
+[2021.10.31-23.55.19:305][499]AssetCheck: New page: Asset Save: Menu
+[2021.10.31-23.55.19:306][499]LogContentValidation: Display: Validating World /Game/Niveles/Menu.Menu
+[2021.10.31-23.56.26:552][404]BlueprintLog: New page: Compile Menu_Widget
+[2021.10.31-23.56.26:561][404]LogClass: Warning: Type mismatch in Selector de Niveles of Menu_Widget_C - Previous (ObjectProperty) Current(BoolProperty) for package:  FObjectReader
+[2021.10.31-23.56.26:603][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.10.31-23.56.51:948][357]BlueprintLog: New page: Compile Menu_Widget
+[2021.10.31-23.56.51:994][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.10.31-23.56.52:484][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Menu_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/Menu_Widget.uasset" SILENT=true
+[2021.10.31-23.56.52:501][401]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Menu_WidgetBDE0A6CD441055625079FF90CCB2DF25.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/Menu_Widget.uasset'
+[2021.10.31-23.56.52:514][401]AssetCheck: New page: Asset Save: Menu_Widget
+[2021.10.31-23.56.52:514][401]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menu_Widget.Menu_Widget
+[2021.10.31-23.56.53:786][548]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.10.31-23.56.53:830][548]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.10.31-23.58.24:619][157]BlueprintLog: New page: Compile SelectorNiveles_Widget
+[2021.10.31-23.58.24:668][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.10.31-23.58.25:179][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/SelectorNiveles_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/SelectorNiveles_Widget.uasset" SILENT=true
+[2021.10.31-23.58.25:188][200]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/SelectorNiveles_Widget7544A2E04C1A0A70C9F578B711B7C855.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/SelectorNiveles_Widget.uasset'
+[2021.10.31-23.58.25:199][200]AssetCheck: New page: Asset Save: SelectorNiveles_Widget
+[2021.10.31-23.58.25:200][200]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/SelectorNiveles_Widget.SelectorNiveles_Widget
+[2021.10.31-23.58.26:434][343]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.10.31-23.58.26:478][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.10.31-23.58.43:295][170]LogEditorTransaction: Undo Create Pin Link
+[2021.10.31-23.58.52:138][182]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.10.31-23.58.52:181][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.10.31-23.58.56:771][182]LogSlate: Window 'Save Content' being destroyed
+[2021.10.31-23.58.56:776][182]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2021.10.31-23.58.56:776][182]PIE: Warning: PIE failed because map save was canceled
+[2021.10.31-23.58.58:556][392]LogSlate: Window 'Message Log' being destroyed
+[2021.10.31-23.58.58:559][392]LogSlate: Window 'Message Log' being destroyed
+[2021.10.31-23.59.18:479][720]BlueprintLog: New page: Compile Menu_Widget
+[2021.10.31-23.59.18:527][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.10.31-23.59.19:019][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Menu_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/Menu_Widget.uasset" SILENT=true
+[2021.10.31-23.59.19:036][764]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Menu_Widget8E25FB01454046594D0C3780085F3B6C.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/Menu_Widget.uasset'
+[2021.10.31-23.59.19:045][764]AssetCheck: New page: Asset Save: Menu_Widget
+[2021.10.31-23.59.19:045][764]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menu_Widget.Menu_Widget
+[2021.10.31-23.59.22:245][140]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.10.31-23.59.22:287][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.11.01-00.01.30:351][237]BlueprintLog: New page: Compile SelectorNiveles_Widget
+[2021.11.01-00.01.30:403][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.11.01-00.01.30:967][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/SelectorNiveles_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/SelectorNiveles_Widget.uasset" SILENT=true
+[2021.11.01-00.01.30:977][275]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/SelectorNiveles_Widget2A7D65C14D15030DAD49DBA3E0111F17.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/SelectorNiveles_Widget.uasset'
+[2021.11.01-00.01.30:990][275]AssetCheck: New page: Asset Save: SelectorNiveles_Widget
+[2021.11.01-00.01.30:990][275]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/SelectorNiveles_Widget.SelectorNiveles_Widget
+[2021.11.01-00.01.32:472][446]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.11.01-00.01.32:518][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.11.01-00.02.00:530][655]BlueprintLog: New page: Compile SelectorNiveles_Widget
+[2021.11.01-00.02.00:576][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.11.01-00.02.01:201][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/SelectorNiveles_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/SelectorNiveles_Widget.uasset" SILENT=true
+[2021.11.01-00.02.01:209][699]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/SelectorNiveles_Widget0FC4DECA464AE19BB25C25A45EEEF3C5.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/SelectorNiveles_Widget.uasset'
+[2021.11.01-00.02.01:224][699]AssetCheck: New page: Asset Save: SelectorNiveles_Widget
+[2021.11.01-00.02.01:224][699]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/SelectorNiveles_Widget.SelectorNiveles_Widget
+[2021.11.01-00.02.02:572][854]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.11.01-00.02.02:618][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.11.01-00.02.43:715][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.11.01-00.02.44:541][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
