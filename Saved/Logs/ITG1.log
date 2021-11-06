@@ -2153,3 +2153,47 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.06-00.18.13:972][183]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Cinematica1_Widget5496A50E430F039FB4946D921F665C0D.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/Cinematica1_Widget.uasset'
 [2021.11.06-00.18.13:983][183]AssetCheck: New page: Asset Save: Cinematica1_Widget
 [2021.11.06-00.18.13:983][183]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Cinematica1_Widget.Cinematica1_Widget
+[2021.11.06-00.19.57:063][856]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.11.06-00.20.26:088][676]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.06-00.20.29:370][ 63]LogAssetEditorSubsystem: Opening Asset editor for TouchInterface /Engine/MobileResources/HUD/LeftVirtualJoystickOnly.LeftVirtualJoystickOnly
+[2021.11.06-00.20.49:406][424]LogTexture: Display: Building textures: i_control_izq_der_v2 (BGRA8, 330X130)
+[2021.11.06-00.21.11:054][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/MobileResources/HUD/LeftVirtualJoystickOnly" FILE="../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" SILENT=true
+[2021.11.06-00.21.11:056][988]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/LeftVirtualJoystickOnlyD072D0584B2DC1A6844571A8C054C99F.tmp' to '../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset'
+[2021.11.06-00.21.11:076][988]AssetCheck: New page: Asset Save: LeftVirtualJoystickOnly
+[2021.11.06-00.21.11:076][988]LogContentValidation: Display: Validating TouchInterface /Engine/MobileResources/HUD/LeftVirtualJoystickOnly.LeftVirtualJoystickOnly
+[2021.11.06-00.21.14:824][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.11.06-00.21.16:295][419]LogSlate: Window 'Save Content' being destroyed
+[2021.11.06-00.21.16:312][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Imagenes/i_contenedor" FILE="E:/Unreal Projects/ITG1/Content/Imagenes/i_contenedor.uasset" SILENT=true
+[2021.11.06-00.21.16:320][419]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/i_contenedor9C11238E4F4747E98B175CB09A6E0C3A.tmp' to 'E:/Unreal Projects/ITG1/Content/Imagenes/i_contenedor.uasset'
+[2021.11.06-00.21.16:341][420]AssetCheck: New page: Asset Save: i_contenedor
+[2021.11.06-00.21.16:341][420]LogContentValidation: Display: Validating Texture2D /Game/Imagenes/i_contenedor.i_contenedor
+[2021.11.06-00.22.07:324][762]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.11.06-00.22.07:374][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.11.06-00.22.53:674][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/MobileResources/HUD/LeftVirtualJoystickOnly" FILE="../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" SILENT=true
+[2021.11.06-00.22.53:675][798]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/LeftVirtualJoystickOnly83AA5D734F85468405DCD6B39D4E1549.tmp' to '../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset'
+[2021.11.06-00.22.53:694][798]AssetCheck: New page: Asset Save: LeftVirtualJoystickOnly
+[2021.11.06-00.22.53:694][798]LogContentValidation: Display: Validating TouchInterface /Engine/MobileResources/HUD/LeftVirtualJoystickOnly.LeftVirtualJoystickOnly
+[2021.11.06-00.22.55:765][ 41]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.11.06-00.22.55:802][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.11.06-00.23.35:014][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/MobileResources/HUD/LeftVirtualJoystickOnly" FILE="../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" SILENT=true
+[2021.11.06-00.23.35:014][598]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/LeftVirtualJoystickOnly8F8BA49049AC13C9CB3BDEBF76BBA9E1.tmp' to '../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset'
+[2021.11.06-00.23.35:028][598]AssetCheck: New page: Asset Save: LeftVirtualJoystickOnly
+[2021.11.06-00.23.35:028][598]LogContentValidation: Display: Validating TouchInterface /Engine/MobileResources/HUD/LeftVirtualJoystickOnly.LeftVirtualJoystickOnly
+[2021.11.06-00.24.09:147][677]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.11.06-00.24.09:185][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.11.06-00.24.52:054][744]Cmd: TRANSACTION UNDO
+[2021.11.06-00.24.52:054][744]LogEditorTransaction: Undo Reset to Default
+[2021.11.06-00.24.52:352][759]Cmd: TRANSACTION UNDO
+[2021.11.06-00.24.52:352][759]LogEditorTransaction: Undo Reset to Default
+[2021.11.06-00.24.52:714][787]Cmd: TRANSACTION UNDO
+[2021.11.06-00.24.52:714][787]LogEditorTransaction: Undo Edit Image 2
+[2021.11.06-00.24.54:452][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/MobileResources/HUD/LeftVirtualJoystickOnly" FILE="../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" SILENT=true
+[2021.11.06-00.24.54:452][992]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/LeftVirtualJoystickOnly671B498D4DFDAB1FD447F5875438864A.tmp' to '../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset'
+[2021.11.06-00.24.54:466][992]AssetCheck: New page: Asset Save: LeftVirtualJoystickOnly
+[2021.11.06-00.24.54:466][992]LogContentValidation: Display: Validating TouchInterface /Engine/MobileResources/HUD/LeftVirtualJoystickOnly.LeftVirtualJoystickOnly
+[2021.11.06-00.24.55:452][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/MobileResources/HUD/LeftVirtualJoystickOnly" FILE="../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" SILENT=true
+[2021.11.06-00.24.55:453][109]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/LeftVirtualJoystickOnly275C22A749AFDF2A3227DB8151C2CB0E.tmp' to '../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset'
+[2021.11.06-00.24.55:467][109]AssetCheck: New page: Asset Save: LeftVirtualJoystickOnly
+[2021.11.06-00.24.55:467][109]LogContentValidation: Display: Validating TouchInterface /Engine/MobileResources/HUD/LeftVirtualJoystickOnly.LeftVirtualJoystickOnly
+[2021.11.06-00.24.58:267][441]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.11.06-00.24.58:305][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
