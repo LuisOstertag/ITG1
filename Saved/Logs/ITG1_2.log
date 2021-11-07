@@ -1896,3 +1896,100 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.07-20.03.06:148][553]LogFileHelpers: Saving map '2' took 0.094
 [2021.11.07-20.03.06:157][553]AssetCheck: New page: Asset Save: 2
 [2021.11.07-20.03.06:157][553]LogContentValidation: Display: Validating World /Game/Niveles/2.2
+[2021.11.07-20.03.31:087][177]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.07-20.03.31:093][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.07-20.03.31:093][177]PIE: New page: PIE session: 2 (7 nov. 2021 14:03:31)
+[2021.11.07-20.03.31:124][177]LogPlayLevel: Creating play world package: /Game/Niveles/UEDPIE_0_2
+[2021.11.07-20.03.31:146][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021970s)
+[2021.11.07-20.03.31:147][177]LogAIModule: Creating AISystem for world 2
+[2021.11.07-20.03.31:147][177]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2021.11.07-20.03.31:147][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Niveles/2.2 to /Game/Niveles/UEDPIE_0_2.2 (0.023125s)
+[2021.11.07-20.03.31:171][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.11.07-20.03.31:172][177]LogAndroidPermission: UAndroidPermissionFunctionLibrary::CheckPermission (Else)
+[2021.11.07-20.03.31:172][177]LogAndroidPermission: UAndroidPermissionFunctionLibrary::CheckPermission (Else)
+[2021.11.07-20.03.31:172][177]LogAndroidPermission: UAndroidPermissionFunctionLibrary::AcquirePermissions(android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_INTERNAL_STORAGE,android.permission.READ_INTERNAL_STORAGE) (Android)
+[2021.11.07-20.03.31:172][177]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.07-20.03.31:172][177]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.11.07-20.03.31:172][177]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.07-20.03.31:172][177]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.07-20.03.31:172][177]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.07-20.03.31:172][177]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.07-20.03.31:172][177]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.07-20.03.31:172][177]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.07-20.03.31:172][177]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.07-20.03.31:172][177]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.07-20.03.31:172][177]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.07-20.03.31:172][177]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.07-20.03.31:176][177]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.07-20.03.31:176][177]LogAudioMixer: Display: 1: FrontRight
+[2021.11.07-20.03.31:186][177]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.11.07-20.03.31:186][177]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.07-20.03.31:186][177]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.07-20.03.31:186][177]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.07-20.03.31:187][177]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.07-20.03.31:187][177]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.07-20.03.31:187][177]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.07-20.03.31:203][177]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.07-20.03.31:203][177]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.07-20.03.31:203][177]LogInit: FAudioDevice initialized.
+[2021.11.07-20.03.31:203][177]LogAudio: Display: Audio Device (ID: 5) registered with world '2'.
+[2021.11.07-20.03.31:210][177]LogLoad: Game class is 'BP_Gamemode_C'
+[2021.11.07-20.03.31:217][177]LogWorld: Bringing World /Game/Niveles/UEDPIE_0_2.2 up for play (max tick rate 0) at 2021.11.07-17.03.31
+[2021.11.07-20.03.31:217][177]LogWorld: Bringing up level for play took: 0.006091
+[2021.11.07-20.03.31:217][177]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.11.07-20.03.31:220][177]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.07-20.03.31:220][177]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.07-20.03.31:220][177]PIE: Server logged in
+[2021.11.07-20.03.31:220][177]PIE: Play in editor total start time 0,128 seconds.
+[2021.11.07-20.03.38:088][998]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.07-20.03.38:088][998]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.07-20.03.55:118][ 37]LogNet: Browse: /Game/Niveles/2
+[2021.11.07-20.03.55:118][ 37]LogLoad: LoadMap: /Game/Niveles/2
+[2021.11.07-20.03.55:118][ 37]LogWorld: BeginTearingDown for /Game/Niveles/UEDPIE_0_2
+[2021.11.07-20.03.55:120][ 37]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-20.03.55:121][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.07-20.03.55:192][ 37]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.07-20.03.55:196][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.11.07-20.03.55:197][ 37]LogPlayLevel: Creating play world package: /Game/Niveles/UEDPIE_0_2
+[2021.11.07-20.03.55:219][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021598s)
+[2021.11.07-20.03.55:220][ 37]LogAIModule: Creating AISystem for world 2
+[2021.11.07-20.03.55:220][ 37]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2021.11.07-20.03.55:220][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Niveles/2.2 to /Game/Niveles/UEDPIE_0_2.2 (0.022852s)
+[2021.11.07-20.03.55:220][ 37]LogAudio: Display: Audio Device (ID: 5) registered with world '2'.
+[2021.11.07-20.03.55:220][ 37]LogLoad: Game class is 'BP_Gamemode_C'
+[2021.11.07-20.03.55:238][ 37]LogWorld: Bringing World /Game/Niveles/UEDPIE_0_2.2 up for play (max tick rate 0) at 2021.11.07-17.03.55
+[2021.11.07-20.03.55:239][ 37]LogWorld: Bringing up level for play took: 0.017644
+[2021.11.07-20.03.55:240][ 37]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.07-20.03.55:240][ 37]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.11.07-20.03.55:240][ 37]LogLoad: Took 0.121875 seconds to LoadMap(/Game/Niveles/UEDPIE_0_2)
+[2021.11.07-20.03.55:928][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.07-20.03.55:929][111]LogWorld: BeginTearingDown for /Game/Niveles/UEDPIE_0_2
+[2021.11.07-20.03.55:930][111]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-20.03.55:934][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.07-20.03.55:954][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.07-20.03.55:962][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.07-20.03.55:992][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.07-20.03.55:992][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.07-20.03.55:993][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.07-20.03.56:013][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.11.07-20.03.56:028][112]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.11.07-20.04.05:428][210]BlueprintLog: New page: Compile BP_Pinchos
+[2021.11.07-20.04.05:469][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.11.07-20.04.06:236][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Pinchos" FILE="E:/Unreal Projects/ITG1/Content/BP/BP_Pinchos.uasset" SILENT=true
+[2021.11.07-20.04.06:249][293]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/BP_Pinchos745023CD4095ACA9ECA45F82747DA56D.tmp' to 'E:/Unreal Projects/ITG1/Content/BP/BP_Pinchos.uasset'
+[2021.11.07-20.04.06:258][293]AssetCheck: New page: Asset Save: BP_Pinchos
+[2021.11.07-20.04.06:258][293]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Pinchos.BP_Pinchos
+[2021.11.07-20.04.07:017][383]BlueprintLog: New page: Compile BP_Pinchos
+[2021.11.07-20.04.07:060][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.11.07-20.04.07:460][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Pinchos" FILE="E:/Unreal Projects/ITG1/Content/BP/BP_Pinchos.uasset" SILENT=true
+[2021.11.07-20.04.07:474][422]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/BP_Pinchos67F527344F65B439EB5377A3B3C72FF2.tmp' to 'E:/Unreal Projects/ITG1/Content/BP/BP_Pinchos.uasset'
+[2021.11.07-20.04.07:485][422]AssetCheck: New page: Asset Save: BP_Pinchos
+[2021.11.07-20.04.07:485][422]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_Pinchos.BP_Pinchos
+[2021.11.07-20.04.09:101][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.11.07-20.04.10:392][592]LogSlate: Window 'Save Content' being destroyed
+[2021.11.07-20.04.10:407][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niveles/2" FILE="E:/Unreal Projects/ITG1/Content/Niveles/2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.07-20.04.10:428][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.11.07-20.04.10:494][592]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/2B27D6F6D4151D67DB9A11B9F406F2F48.tmp' to 'E:/Unreal Projects/ITG1/Content/Niveles/2.umap'
+[2021.11.07-20.04.10:501][592]LogFileHelpers: Saving map '2' took 0.094
+[2021.11.07-20.04.10:510][592]AssetCheck: New page: Asset Save: 2
+[2021.11.07-20.04.10:510][592]LogContentValidation: Display: Validating World /Game/Niveles/2.2
