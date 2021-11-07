@@ -2066,3 +2066,317 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.07-20.09.37:537][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.11.07-20.09.37:558][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
 [2021.11.07-20.09.37:591][978]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.11.07-20.54.25:780][362]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.11.07-20.54.26:107][362]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.11.07-20.54.33:147][206]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Creditos_Widget
+[2021.11.07-20.54.33:149][206]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.11.07-20.54.34:489][363]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Creditos_Widget.Creditos_Widget
+[2021.11.07-20.57.16:646][393]LogSlate: Took 0.001172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.11.07-22.33.37:101][601]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Agus\Desktop\i_volver.png)
+[2021.11.07-22.33.37:108][601]LogTexture: Display: Building textures: i_volver (BGRA8, 93X79)
+[2021.11.07-22.33.37:111][601]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Agus\Desktop\i_musica.png)
+[2021.11.07-22.33.37:112][601]LogTexture: Display: Building textures: i_musica (BGRA8, 121X112)
+[2021.11.07-22.33.37:114][601]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Agus\Desktop\i_sonido.png)
+[2021.11.07-22.33.37:116][601]LogTexture: Display: Building textures: i_sonido (BGRA8, 126X112)
+[2021.11.07-22.33.37:121][601]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Agus\Desktop\i_config.png)
+[2021.11.07-22.33.37:122][601]LogTexture: Display: Building textures: i_config (BGRA8, 80X70)
+[2021.11.07-22.33.48:952][971]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-22.33.48:952][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.07-22.33.49:482][ 24]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.07-22.33.49:482][ 24]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-22.33.49:482][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.07-22.33.50:272][108]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.07-22.33.50:272][108]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-22.33.50:272][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.07-22.34.24:106][304]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.11.07-22.34.24:112][304]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Niveles/2' took 0.089
+[2021.11.07-22.34.24:113][304]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD/i_volver] ([1] browsable assets)...
+[2021.11.07-22.34.24:114][304]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD/i_volver.i_volver]
+[2021.11.07-22.34.24:114][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/i_volver]
+[2021.11.07-22.34.24:114][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/i_volver" FILE="E:/Unreal Projects/ITG1/Saved/Autosaves/Game/HUD/i_volver_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.11.07-22.34.24:115][304]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/i_volver_Auto1923BA3234E86C28D7F6F749EB45870C5.tmp' to 'E:/Unreal Projects/ITG1/Saved/Autosaves/Game/HUD/i_volver_Auto1.uasset'
+[2021.11.07-22.34.24:115][304]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD/i_musica] ([1] browsable assets)...
+[2021.11.07-22.34.24:117][304]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD/i_musica.i_musica]
+[2021.11.07-22.34.24:117][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/i_musica]
+[2021.11.07-22.34.24:117][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/i_musica" FILE="E:/Unreal Projects/ITG1/Saved/Autosaves/Game/HUD/i_musica_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.11.07-22.34.24:118][304]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/i_musica_Auto17556FF214CEA1F14364D3BBA4A5AE3AD.tmp' to 'E:/Unreal Projects/ITG1/Saved/Autosaves/Game/HUD/i_musica_Auto1.uasset'
+[2021.11.07-22.34.24:118][304]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD/i_sonido] ([1] browsable assets)...
+[2021.11.07-22.34.24:120][304]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD/i_sonido.i_sonido]
+[2021.11.07-22.34.24:120][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/i_sonido]
+[2021.11.07-22.34.24:120][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/i_sonido" FILE="E:/Unreal Projects/ITG1/Saved/Autosaves/Game/HUD/i_sonido_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.11.07-22.34.24:121][304]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/i_sonido_Auto1D63388D64F12FB9DF5A13D92D4B2C23D.tmp' to 'E:/Unreal Projects/ITG1/Saved/Autosaves/Game/HUD/i_sonido_Auto1.uasset'
+[2021.11.07-22.34.24:121][304]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HUD/i_config] ([1] browsable assets)...
+[2021.11.07-22.34.24:122][304]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/HUD/i_config.i_config]
+[2021.11.07-22.34.24:122][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/i_config]
+[2021.11.07-22.34.24:122][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/i_config" FILE="E:/Unreal Projects/ITG1/Saved/Autosaves/Game/HUD/i_config_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.11.07-22.34.24:124][304]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/i_config_Auto1ECF81BE64DE4252CFEDD1488E5221826.tmp' to 'E:/Unreal Projects/ITG1/Saved/Autosaves/Game/HUD/i_config_Auto1.uasset'
+[2021.11.07-22.34.24:124][304]LogFileHelpers: Auto-saving content packages took 0.012
+[2021.11.07-22.34.37:914][696]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Agus\Desktop\i_siguiente.png)
+[2021.11.07-22.34.37:915][696]LogTexture: Display: Building textures: i_siguiente (BGRA8, 64X54)
+[2021.11.07-22.34.54:073][501]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Cinematica1_Widget.Cinematica1_Widget
+[2021.11.07-22.35.24:594][880]BlueprintLog: New page: Compile Cinematica1_Widget
+[2021.11.07-22.35.24:657][880]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.11.07-22.35.25:130][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Cinematica1_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/Cinematica1_Widget.uasset" SILENT=true
+[2021.11.07-22.35.25:140][923]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Cinematica1_WidgetD64CCD554749A7CBF49ABA8715DCBC9D.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/Cinematica1_Widget.uasset'
+[2021.11.07-22.35.25:151][923]AssetCheck: New page: Asset Save: Cinematica1_Widget
+[2021.11.07-22.35.25:151][923]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Cinematica1_Widget.Cinematica1_Widget
+[2021.11.07-22.35.27:999][262]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-22.35.27:999][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.07-22.35.28:007][262]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-22.35.28:007][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.07-22.35.30:796][582]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Cinematica1_Widget2.Cinematica1_Widget2
+[2021.11.07-22.35.46:709][419]BlueprintLog: New page: Compile Cinematica1_Widget2
+[2021.11.07-22.35.46:745][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.11.07-22.35.47:185][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Cinematica1_Widget2" FILE="E:/Unreal Projects/ITG1/Content/Widgets/Cinematica1_Widget2.uasset" SILENT=true
+[2021.11.07-22.35.47:195][457]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Cinematica1_Widget299DDCE7D45FA39A90DDD1A9A80D14A5F.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/Cinematica1_Widget2.uasset'
+[2021.11.07-22.35.47:206][457]AssetCheck: New page: Asset Save: Cinematica1_Widget2
+[2021.11.07-22.35.47:206][457]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Cinematica1_Widget2.Cinematica1_Widget2
+[2021.11.07-22.35.52:685][103]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Cinematica1_Widget.Cinematica1_Widget
+[2021.11.07-22.36.01:372][ 90]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Cinematica2_Widget.Cinematica2_Widget
+[2021.11.07-22.36.31:540][123]BlueprintLog: New page: Compile Cinematica2_Widget
+[2021.11.07-22.36.31:579][123]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.11.07-22.36.32:103][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Cinematica2_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/Cinematica2_Widget.uasset" SILENT=true
+[2021.11.07-22.36.32:107][156]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Cinematica2_Widget2A45EAF9445510EDBFD52B9EAA345382.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/Cinematica2_Widget.uasset'
+[2021.11.07-22.36.32:120][156]AssetCheck: New page: Asset Save: Cinematica2_Widget
+[2021.11.07-22.36.32:120][156]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Cinematica2_Widget.Cinematica2_Widget
+[2021.11.07-22.36.40:074][ 80]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/GanarNivel_Widget.GanarNivel_Widget
+[2021.11.07-22.36.44:560][575]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Menu_Widget.Menu_Widget
+[2021.11.07-22.38.38:365][191]BlueprintLog: New page: Compile Menu_Widget
+[2021.11.07-22.38.38:415][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.11.07-22.38.39:157][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Menu_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/Menu_Widget.uasset" SILENT=true
+[2021.11.07-22.38.39:179][264]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Menu_Widget1912244B4067BA8C2F651B8D047FC4A9.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/Menu_Widget.uasset'
+[2021.11.07-22.38.39:191][264]AssetCheck: New page: Asset Save: Menu_Widget
+[2021.11.07-22.38.39:191][264]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menu_Widget.Menu_Widget
+[2021.11.07-22.38.41:825][565]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Pausa_Widget.Pausa_Widget
+[2021.11.07-22.39.19:079][412]BlueprintLog: New page: Compile Pausa_Widget
+[2021.11.07-22.39.19:127][412]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.11.07-22.39.19:791][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Pausa_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/Pausa_Widget.uasset" SILENT=true
+[2021.11.07-22.39.19:804][481]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Pausa_Widget09B5441E4C0EF02D4FA009A6BA977979.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/Pausa_Widget.uasset'
+[2021.11.07-22.39.19:814][481]AssetCheck: New page: Asset Save: Pausa_Widget
+[2021.11.07-22.39.19:814][481]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Pausa_Widget.Pausa_Widget
+[2021.11.07-22.39.36:087][421]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/SelectorNiveles_Widget.SelectorNiveles_Widget
+[2021.11.07-22.40.01:439][ 67]BlueprintLog: New page: Compile SelectorNiveles_Widget
+[2021.11.07-22.40.01:490][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.11.07-22.40.01:984][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/SelectorNiveles_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/SelectorNiveles_Widget.uasset" SILENT=true
+[2021.11.07-22.40.02:005][107]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/SelectorNiveles_WidgetBFFEB7A845C9AAEF21C5D4A1F360BED9.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/SelectorNiveles_Widget.uasset'
+[2021.11.07-22.40.02:016][107]AssetCheck: New page: Asset Save: SelectorNiveles_Widget
+[2021.11.07-22.40.02:016][107]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/SelectorNiveles_Widget.SelectorNiveles_Widget
+[2021.11.07-22.40.06:712][636]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.11.07-22.40.09:619][636]LogSlate: Window 'Save Content' being destroyed
+[2021.11.07-22.40.10:171][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.11.07-22.40.11:019][688]LogSlate: Window 'Save Content' being destroyed
+[2021.11.07-22.40.11:040][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Creditos_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/Creditos_Widget.uasset" SILENT=true
+[2021.11.07-22.40.11:044][688]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Creditos_Widget04E851FE46C9C778EC7221BB6D868193.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/Creditos_Widget.uasset'
+[2021.11.07-22.40.11:044][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/i_config" FILE="E:/Unreal Projects/ITG1/Content/HUD/i_config.uasset" SILENT=true
+[2021.11.07-22.40.11:046][688]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/i_config036AB311402EC2423E4968B8C6BF48D4.tmp' to 'E:/Unreal Projects/ITG1/Content/HUD/i_config.uasset'
+[2021.11.07-22.40.11:046][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/i_musica" FILE="E:/Unreal Projects/ITG1/Content/HUD/i_musica.uasset" SILENT=true
+[2021.11.07-22.40.11:047][688]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/i_musica189478EF49B1E356ACCF6B96F2932B50.tmp' to 'E:/Unreal Projects/ITG1/Content/HUD/i_musica.uasset'
+[2021.11.07-22.40.11:048][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/i_siguiente" FILE="E:/Unreal Projects/ITG1/Content/HUD/i_siguiente.uasset" SILENT=true
+[2021.11.07-22.40.11:050][688]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/i_siguienteF928AF7A4189A40EE60B58BCCD5926B8.tmp' to 'E:/Unreal Projects/ITG1/Content/HUD/i_siguiente.uasset'
+[2021.11.07-22.40.11:050][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/i_sonido" FILE="E:/Unreal Projects/ITG1/Content/HUD/i_sonido.uasset" SILENT=true
+[2021.11.07-22.40.11:052][688]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/i_sonidoA29DE2234789F05D0C2826960C3D4471.tmp' to 'E:/Unreal Projects/ITG1/Content/HUD/i_sonido.uasset'
+[2021.11.07-22.40.11:052][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/i_volver" FILE="E:/Unreal Projects/ITG1/Content/HUD/i_volver.uasset" SILENT=true
+[2021.11.07-22.40.11:053][688]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/i_volver154D0CC14E78667601722289F3796C4B.tmp' to 'E:/Unreal Projects/ITG1/Content/HUD/i_volver.uasset'
+[2021.11.07-22.40.11:078][688]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Niveles/Menu.Menu
+[2021.11.07-22.40.11:078][688]Cmd: MAP LOAD FILE="E:/Unreal Projects/ITG1/Content/Niveles/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.07-22.40.11:078][688]LightingResults: New page: Lighting Build
+[2021.11.07-22.40.11:079][688]LoadErrors: New page: Loading map: Menu.umap
+[2021.11.07-22.40.11:112][688]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-22.40.11:112][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.07-22.40.11:113][688]MapCheck: New page: Map Check
+[2021.11.07-22.40.11:113][688]LightingResults: New page: Lighting Build
+[2021.11.07-22.40.11:151][688]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.07-22.40.11:161][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.11.07-22.40.11:162][688]LogAudio: Display: Audio Device (ID: 1) registered with world 'Menu'.
+[2021.11.07-22.40.11:239][688]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.07-22.40.11:239][688]LogAIModule: Creating AISystem for world Menu
+[2021.11.07-22.40.11:279][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.11.07-22.40.11:286][688]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.07-22.40.11:286][688]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,082ms to complete.
+[2021.11.07-22.40.11:286][688]LogFileHelpers: Loading map 'Menu' took 0.208
+[2021.11.07-22.40.11:303][688]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.07-22.40.11:303][688]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Creditos_Widget.Creditos_Widget
+[2021.11.07-22.40.11:303][688]LogContentValidation: Display: Validating Texture2D /Game/HUD/i_siguiente.i_siguiente
+[2021.11.07-22.40.11:303][688]LogContentValidation: Display: Validating Texture2D /Game/HUD/i_volver.i_volver
+[2021.11.07-22.40.11:303][688]LogContentValidation: Display: Validating Texture2D /Game/HUD/i_musica.i_musica
+[2021.11.07-22.40.11:303][688]LogContentValidation: Display: Validating Texture2D /Game/HUD/i_sonido.i_sonido
+[2021.11.07-22.40.11:303][688]LogContentValidation: Display: Validating Texture2D /Game/HUD/i_config.i_config
+[2021.11.07-22.40.12:614][841]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.07-22.40.12:621][841]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.11.07-22.40.12:621][841]LogPlayLevel: [PlayLevel] Compiling Creditos_Widget before play...
+[2021.11.07-22.40.12:706][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.11.07-22.40.12:706][841]LogPlayLevel: PlayLevel: Blueprint regeneration took 84 ms (1 blueprints)
+[2021.11.07-22.40.12:706][841]PIE: New page: PIE session: Menu (7 nov. 2021 16:40:12)
+[2021.11.07-22.40.12:732][841]LogPlayLevel: Creating play world package: /Game/Niveles/UEDPIE_0_Menu
+[2021.11.07-22.40.12:734][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001342s)
+[2021.11.07-22.40.12:735][841]LogAIModule: Creating AISystem for world Menu
+[2021.11.07-22.40.12:735][841]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2021.11.07-22.40.12:735][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Niveles/Menu.Menu to /Game/Niveles/UEDPIE_0_Menu.Menu (0.002321s)
+[2021.11.07-22.40.12:774][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.11.07-22.40.12:774][841]LogAndroidPermission: UAndroidPermissionFunctionLibrary::CheckPermission (Else)
+[2021.11.07-22.40.12:774][841]LogAndroidPermission: UAndroidPermissionFunctionLibrary::CheckPermission (Else)
+[2021.11.07-22.40.12:774][841]LogAndroidPermission: UAndroidPermissionFunctionLibrary::AcquirePermissions(android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_INTERNAL_STORAGE,android.permission.READ_INTERNAL_STORAGE) (Android)
+[2021.11.07-22.40.12:774][841]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.07-22.40.12:774][841]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.11.07-22.40.12:774][841]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.07-22.40.12:774][841]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.07-22.40.12:774][841]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.07-22.40.12:774][841]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.07-22.40.12:774][841]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.07-22.40.12:774][841]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.07-22.40.12:774][841]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.07-22.40.12:774][841]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.07-22.40.12:775][841]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.07-22.40.12:775][841]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.07-22.40.12:778][841]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.07-22.40.12:778][841]LogAudioMixer: Display: 1: FrontRight
+[2021.11.07-22.40.12:789][841]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.11.07-22.40.12:789][841]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.07-22.40.12:789][841]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.07-22.40.12:789][841]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.07-22.40.12:789][841]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.07-22.40.12:789][841]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.07-22.40.12:789][841]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.07-22.40.12:805][841]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.07-22.40.12:805][841]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.07-22.40.12:805][841]LogInit: FAudioDevice initialized.
+[2021.11.07-22.40.12:805][841]LogAudio: Display: Audio Device (ID: 7) registered with world 'Menu'.
+[2021.11.07-22.40.12:813][841]LogLoad: Game class is 'BP_Gamemode_C'
+[2021.11.07-22.40.12:814][841]LogWorld: Bringing World /Game/Niveles/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2021.11.07-19.40.12
+[2021.11.07-22.40.12:814][841]LogWorld: Bringing up level for play took: 0.000270
+[2021.11.07-22.40.12:814][841]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.11.07-22.40.12:817][841]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.07-22.40.12:817][841]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.07-22.40.12:817][841]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.07-22.40.12:817][841]PIE: Server logged in
+[2021.11.07-22.40.12:818][841]PIE: Play in editor total start time 0,198 seconds.
+[2021.11.07-22.40.22:496][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.07-22.40.22:496][995]LogWorld: BeginTearingDown for /Game/Niveles/UEDPIE_0_Menu
+[2021.11.07-22.40.22:497][995]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-22.40.22:497][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.07-22.40.22:515][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.07-22.40.22:528][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.07-22.40.22:579][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.07-22.40.22:580][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.07-22.40.22:581][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.07-22.40.22:600][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.11.07-22.40.22:614][996]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.11.07-22.41.10:533][638]BlueprintLog: New page: Compile Cinematica1_Widget2
+[2021.11.07-22.41.10:577][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.11.07-22.41.11:069][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Cinematica1_Widget2" FILE="E:/Unreal Projects/ITG1/Content/Widgets/Cinematica1_Widget2.uasset" SILENT=true
+[2021.11.07-22.41.11:079][677]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Cinematica1_Widget2032ABBDA4FE08D11178A63BFAE6957E6.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/Cinematica1_Widget2.uasset'
+[2021.11.07-22.41.11:089][677]AssetCheck: New page: Asset Save: Cinematica1_Widget2
+[2021.11.07-22.41.11:089][677]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Cinematica1_Widget2.Cinematica1_Widget2
+[2021.11.07-22.41.30:201][901]BlueprintLog: New page: Compile Cinematica1_Widget
+[2021.11.07-22.41.30:247][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.11.07-22.41.30:783][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Cinematica1_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/Cinematica1_Widget.uasset" SILENT=true
+[2021.11.07-22.41.30:793][946]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Cinematica1_Widget8F4A48B7414CD08FA8123BA529124201.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/Cinematica1_Widget.uasset'
+[2021.11.07-22.41.30:808][946]AssetCheck: New page: Asset Save: Cinematica1_Widget
+[2021.11.07-22.41.30:808][946]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Cinematica1_Widget.Cinematica1_Widget
+[2021.11.07-22.41.46:164][737]BlueprintLog: New page: Compile Cinematica2_Widget
+[2021.11.07-22.41.46:209][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.11.07-22.41.46:798][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Cinematica2_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/Cinematica2_Widget.uasset" SILENT=true
+[2021.11.07-22.41.46:803][776]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Cinematica2_Widget3040F62645711D37E77313BD4A218A8C.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/Cinematica2_Widget.uasset'
+[2021.11.07-22.41.46:812][776]AssetCheck: New page: Asset Save: Cinematica2_Widget
+[2021.11.07-22.41.46:813][776]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Cinematica2_Widget.Cinematica2_Widget
+[2021.11.07-22.42.22:876][957]BlueprintLog: New page: Compile Menu_Widget
+[2021.11.07-22.42.22:927][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.11.07-22.42.23:403][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Menu_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/Menu_Widget.uasset" SILENT=true
+[2021.11.07-22.42.23:424][999]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Menu_Widget9BD9D234434469EF253258956D2686C8.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/Menu_Widget.uasset'
+[2021.11.07-22.42.23:435][999]AssetCheck: New page: Asset Save: Menu_Widget
+[2021.11.07-22.42.23:435][999]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Menu_Widget.Menu_Widget
+[2021.11.07-22.42.54:581][592]BlueprintLog: New page: Compile Pausa_Widget
+[2021.11.07-22.42.54:630][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.11.07-22.42.55:200][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Pausa_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/Pausa_Widget.uasset" SILENT=true
+[2021.11.07-22.42.55:213][645]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/Pausa_Widget4CD10A9D4B20573D89CF3EA37111E597.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/Pausa_Widget.uasset'
+[2021.11.07-22.42.55:224][645]AssetCheck: New page: Asset Save: Pausa_Widget
+[2021.11.07-22.42.55:224][645]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Pausa_Widget.Pausa_Widget
+[2021.11.07-22.43.10:408][384]BlueprintLog: New page: Compile SelectorNiveles_Widget
+[2021.11.07-22.43.10:456][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.11.07-22.43.11:041][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/SelectorNiveles_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/SelectorNiveles_Widget.uasset" SILENT=true
+[2021.11.07-22.43.11:061][431]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/SelectorNiveles_WidgetE82E0E86407E3E6271353C87ED3EFCD3.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/SelectorNiveles_Widget.uasset'
+[2021.11.07-22.43.11:071][431]AssetCheck: New page: Asset Save: SelectorNiveles_Widget
+[2021.11.07-22.43.11:071][431]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/SelectorNiveles_Widget.SelectorNiveles_Widget
+[2021.11.07-22.43.26:148][210]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/UI_Widget.UI_Widget
+[2021.11.07-22.44.04:299][223]BlueprintLog: New page: Compile UI_Widget
+[2021.11.07-22.44.04:350][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.11.07-22.44.05:014][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/UI_Widget" FILE="E:/Unreal Projects/ITG1/Content/Widgets/UI_Widget.uasset" SILENT=true
+[2021.11.07-22.44.05:034][287]LogSavePackage: Moving 'E:/Unreal Projects/ITG1/Saved/UI_WidgetA0ECA6B0407C42A70358E992B3FBB37E.tmp' to 'E:/Unreal Projects/ITG1/Content/Widgets/UI_Widget.uasset'
+[2021.11.07-22.44.05:045][287]AssetCheck: New page: Asset Save: UI_Widget
+[2021.11.07-22.44.05:045][287]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/UI_Widget.UI_Widget
+[2021.11.07-22.44.06:514][460]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.07-22.44.06:521][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.07-22.44.06:521][460]PIE: New page: PIE session: Menu (7 nov. 2021 16:44:06)
+[2021.11.07-22.44.06:552][460]LogPlayLevel: Creating play world package: /Game/Niveles/UEDPIE_0_Menu
+[2021.11.07-22.44.06:553][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001322s)
+[2021.11.07-22.44.06:554][460]LogAIModule: Creating AISystem for world Menu
+[2021.11.07-22.44.06:554][460]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2021.11.07-22.44.06:554][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Niveles/Menu.Menu to /Game/Niveles/UEDPIE_0_Menu.Menu (0.002285s)
+[2021.11.07-22.44.06:597][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.11.07-22.44.06:597][460]LogAndroidPermission: UAndroidPermissionFunctionLibrary::CheckPermission (Else)
+[2021.11.07-22.44.06:597][460]LogAndroidPermission: UAndroidPermissionFunctionLibrary::CheckPermission (Else)
+[2021.11.07-22.44.06:597][460]LogAndroidPermission: UAndroidPermissionFunctionLibrary::AcquirePermissions(android.permission.WRITE_EXTERNAL_STORAGE,android.permission.READ_EXTERNAL_STORAGE,android.permission.WRITE_INTERNAL_STORAGE,android.permission.READ_INTERNAL_STORAGE) (Android)
+[2021.11.07-22.44.06:597][460]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.07-22.44.06:598][460]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.11.07-22.44.06:598][460]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.07-22.44.06:598][460]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.07-22.44.06:598][460]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.07-22.44.06:598][460]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.07-22.44.06:598][460]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.07-22.44.06:598][460]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.07-22.44.06:598][460]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.07-22.44.06:598][460]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.07-22.44.06:598][460]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.07-22.44.06:598][460]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.07-22.44.06:602][460]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.07-22.44.06:602][460]LogAudioMixer: Display: 1: FrontRight
+[2021.11.07-22.44.06:612][460]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.11.07-22.44.06:612][460]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.07-22.44.06:612][460]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.07-22.44.06:612][460]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.07-22.44.06:613][460]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.07-22.44.06:613][460]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.07-22.44.06:613][460]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.07-22.44.06:628][460]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.07-22.44.06:628][460]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.07-22.44.06:628][460]LogInit: FAudioDevice initialized.
+[2021.11.07-22.44.06:628][460]LogAudio: Display: Audio Device (ID: 8) registered with world 'Menu'.
+[2021.11.07-22.44.06:634][460]LogLoad: Game class is 'BP_Gamemode_C'
+[2021.11.07-22.44.06:635][460]LogWorld: Bringing World /Game/Niveles/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2021.11.07-19.44.06
+[2021.11.07-22.44.06:636][460]LogWorld: Bringing up level for play took: 0.000287
+[2021.11.07-22.44.06:636][460]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.11.07-22.44.06:638][460]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.07-22.44.06:639][460]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.07-22.44.06:639][460]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.07-22.44.06:639][460]PIE: Server logged in
+[2021.11.07-22.44.06:639][460]PIE: Play in editor total start time 0,119 seconds.
+[2021.11.07-22.44.16:024][582]LogNet: Browse: /Game/Niveles/2
+[2021.11.07-22.44.16:024][582]LogLoad: LoadMap: /Game/Niveles/2
+[2021.11.07-22.44.16:024][582]LogWorld: BeginTearingDown for /Game/Niveles/UEDPIE_0_Menu
+[2021.11.07-22.44.16:025][582]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-22.44.16:025][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.07-22.44.16:089][582]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.07-22.44.16:092][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.11.07-22.44.16:132][582]LogAudio: Display: Audio Device (ID: 8) registered with world '2'.
+[2021.11.07-22.44.16:133][582]LogAIModule: Creating AISystem for world 2
+[2021.11.07-22.44.16:133][582]LogLoad: Game class is 'BP_Gamemode_C'
+[2021.11.07-22.44.16:175][582]LogWorld: Bringing World /Game/Niveles/UEDPIE_0_2.2 up for play (max tick rate 0) at 2021.11.07-19.44.16
+[2021.11.07-22.44.16:176][582]LogWorld: Bringing up level for play took: 0.041602
+[2021.11.07-22.44.16:177][582]LogLoad: Took 0.152529 seconds to LoadMap(/Game/Niveles/2)
+[2021.11.07-22.44.23:023][398]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.07-22.44.23:024][398]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.07-22.44.28:325][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.07-22.44.28:326][ 28]LogWorld: BeginTearingDown for /Game/Niveles/UEDPIE_0_2
+[2021.11.07-22.44.28:327][ 28]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-22.44.28:330][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.07-22.44.28:350][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.07-22.44.28:366][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.07-22.44.28:421][ 28]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.07-22.44.28:422][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.07-22.44.28:422][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.07-22.44.28:438][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.07-22.44.28:443][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.11.07-22.44.28:461][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.11.07-22.44.30:404][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.11.07-22.46.03:621][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.11.07-22.46.04:415][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
